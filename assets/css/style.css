@@ -1406,6 +1406,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .service-content-box { text-align: left; }
 
+  /* languages and tools */
+  .mt-10 { margin-top: 20px; }
+
   /* testimonials */
 
   .testimonials-title { margin-bottom: 25px; }
